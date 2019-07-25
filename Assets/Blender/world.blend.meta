@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 0e3fbedfa2893d440b017ca65a03eb26
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Light
+    100006: Plane
+    100008: //RootNode
+    100010: Cave
+    100012: Elevator
+    100014: Island
+    100016: Water
+    100018: Land
+    100020: Base
+    100022: Circle
+    100024: Circle.001
+    100026: Circle.000
+    100028: Walls
+    100030: Walls.001
+    100032: Walls.002
+    100034: World 1
+    100036: World 2
+    100038: World 3
+    100040: Gate
+    100042: Plane.001
+    100044: Walls.000
+    100046: Gate.001
+    100048: Gate.002
+    100050: Gate.003
+    100052: Gate.004
+    100054: Gate.006
+    100056: Gate.007
+    100058: Gate.008
+    100060: Gate.009
+    100062: Ground
+    100064: Ground.001
+    100066: Level 1
+    100068: Level 2
+    100070: Level 3
+    100072: Elevator.001
+    100074: Gate.005
+    100076: Gate.010
+    100078: Gate.011
+    100080: Gate.012
+    100082: Gate.013
+    100084: Ground.002
+    100086: Walls.003
+    100088: Isle
+    100090: Isle.001
+    100092: Isle.002
+    100094: Ground.003
+    400000: Camera
+    400002: Cube
+    400004: Light
+    400006: Plane
+    400008: //RootNode
+    400010: Cave
+    400012: Elevator
+    400014: Island
+    400016: Water
+    400018: Land
+    400020: Base
+    400022: Circle
+    400024: Circle.001
+    400026: Circle.000
+    400028: Walls
+    400030: Walls.001
+    400032: Walls.002
+    400034: World 1
+    400036: World 2
+    400038: World 3
+    400040: Gate
+    400042: Plane.001
+    400044: Walls.000
+    400046: Gate.001
+    400048: Gate.002
+    400050: Gate.003
+    400052: Gate.004
+    400054: Gate.006
+    400056: Gate.007
+    400058: Gate.008
+    400060: Gate.009
+    400062: Ground
+    400064: Ground.001
+    400066: Level 1
+    400068: Level 2
+    400070: Level 3
+    400072: Elevator.001
+    400074: Gate.005
+    400076: Gate.010
+    400078: Gate.011
+    400080: Gate.012
+    400082: Gate.013
+    400084: Ground.002
+    400086: Walls.003
+    400088: Isle
+    400090: Isle.001
+    400092: Isle.002
+    400094: Ground.003
+    2000000: Camera
+    2100000: Material
+    2100002: No Name
+    2100004: Material.001
+    2100006: Material.002
+    2100008: Material.005
+    2100010: Material.004
+    2300000: Cube
+    2300002: Plane
+    2300004: Cave
+    2300006: Elevator
+    2300008: Island
+    2300010: Water
+    2300012: Land
+    2300014: Circle
+    2300016: Circle.001
+    2300018: Circle.000
+    2300020: Walls
+    2300022: Walls.001
+    2300024: Walls.002
+    2300026: Gate
+    2300028: Plane.001
+    2300030: Walls.000
+    2300032: Gate.001
+    2300034: Gate.002
+    2300036: Gate.003
+    2300038: Gate.004
+    2300040: Gate.006
+    2300042: Gate.007
+    2300044: Gate.008
+    2300046: Gate.009
+    2300048: Ground
+    2300050: Ground.001
+    2300052: Elevator.001
+    2300054: Gate.005
+    2300056: Gate.010
+    2300058: Gate.011
+    2300060: Gate.012
+    2300062: Gate.013
+    2300064: Ground.002
+    2300066: Walls.003
+    2300068: Isle
+    2300070: Isle.001
+    2300072: Isle.002
+    2300074: Ground.003
+    3300000: Cube
+    3300002: Plane
+    3300004: Cave
+    3300006: Elevator
+    3300008: Island
+    3300010: Water
+    3300012: Land
+    3300014: Circle
+    3300016: Circle.001
+    3300018: Circle.000
+    3300020: Walls
+    3300022: Walls.001
+    3300024: Walls.002
+    3300026: Gate
+    3300028: Plane.001
+    3300030: Walls.000
+    3300032: Gate.001
+    3300034: Gate.002
+    3300036: Gate.003
+    3300038: Gate.004
+    3300040: Gate.006
+    3300042: Gate.007
+    3300044: Gate.008
+    3300046: Gate.009
+    3300048: Ground
+    3300050: Ground.001
+    3300052: Elevator.001
+    3300054: Gate.005
+    3300056: Gate.010
+    3300058: Gate.011
+    3300060: Gate.012
+    3300062: Gate.013
+    3300064: Ground.002
+    3300066: Walls.003
+    3300068: Isle
+    3300070: Isle.001
+    3300072: Isle.002
+    3300074: Ground.003
+    4300000: Cube
+    4300002: Plane
+    4300004: Elevator
+    4300006: Cave
+    4300008: Island
+    4300010: Water
+    4300012: Land
+    4300014: Circle
+    4300016: Circle.001
+    4300018: Circle.000
+    4300020: Walls
+    4300022: Walls.001
+    4300024: Walls.002
+    4300026: Walls.000
+    4300028: Gate
+    4300030: Plane.001
+    4300032: Ground.001
+    4300034: Gate.001
+    4300036: Gate.002
+    4300038: Gate.003
+    4300040: Gate.004
+    4300042: Gate.006
+    4300044: Gate.007
+    4300046: Gate.008
+    4300048: Gate.009
+    4300050: Ground
+    4300052: Walls.003
+    4300054: Elevator.001
+    4300056: Gate.013
+    4300058: Gate.012
+    4300060: Gate.011
+    4300062: Gate.010
+    4300064: Gate.005
+    4300066: Ground.002
+    4300068: Isle
+    4300070: Isle.002
+    4300072: Isle.001
+    4300074: Ground.003
+    6400000: Cave
+    6400002: Elevator
+    6400004: Island
+    6400006: Water
+    6400008: Land
+    6400010: Plane
+    6400012: Circle
+    6400014: Circle.001
+    6400016: Circle.000
+    6400018: Walls
+    6400020: Walls.001
+    6400022: Walls.002
+    6400024: Gate
+    6400026: Plane.001
+    6400028: Walls.000
+    6400030: Gate.001
+    6400032: Gate.002
+    6400034: Gate.003
+    6400036: Gate.004
+    6400038: Gate.006
+    6400040: Gate.007
+    6400042: Gate.008
+    6400044: Gate.009
+    6400046: Ground
+    6400048: Ground.001
+    6400050: Elevator.001
+    6400052: Gate.005
+    6400054: Gate.010
+    6400056: Gate.011
+    6400058: Gate.012
+    6400060: Gate.013
+    6400062: Ground.002
+    6400064: Walls.003
+    6400066: Isle
+    6400068: Isle.001
+    6400070: Isle.002
+    6400072: Ground.003
+    10800000: Light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

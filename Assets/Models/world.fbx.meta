@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 8646aa5a3056fcb4c918d53367756d75
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base
+    100002: Circle.001
+    100004: Elevator
+    100006: Light
+    100008: Plane
+    100010: //RootNode
+    100012: Circle.000
+    100014: Gate
+    100016: Plane.001
+    100018: Walls.000
+    100020: Walls.001
+    100022: Walls.002
+    100024: World 1
+    100026: World 2
+    100028: World 3
+    100030: Gate.001
+    100032: Gate.002
+    100034: Gate.003
+    100036: Gate.004
+    100038: Gate.006
+    100040: Gate.007
+    100042: Gate.008
+    100044: Gate.009
+    100046: Ground
+    100048: Ground.001
+    100050: Elevator.001
+    100052: Gate.005
+    100054: Gate.010
+    100056: Gate.011
+    100058: Gate.012
+    100060: Gate.013
+    100062: Ground.002
+    100064: Level 1
+    100066: Level 2
+    100068: Level 3
+    100070: Walls.003
+    100072: Isle
+    100074: Isle.001
+    100076: Isle.002
+    100078: Ground.003
+    400000: Base
+    400002: Circle.001
+    400004: Elevator
+    400006: Light
+    400008: Plane
+    400010: //RootNode
+    400012: Circle.000
+    400014: Gate
+    400016: Plane.001
+    400018: Walls.000
+    400020: Walls.001
+    400022: Walls.002
+    400024: World 1
+    400026: World 2
+    400028: World 3
+    400030: Gate.001
+    400032: Gate.002
+    400034: Gate.003
+    400036: Gate.004
+    400038: Gate.006
+    400040: Gate.007
+    400042: Gate.008
+    400044: Gate.009
+    400046: Ground
+    400048: Ground.001
+    400050: Elevator.001
+    400052: Gate.005
+    400054: Gate.010
+    400056: Gate.011
+    400058: Gate.012
+    400060: Gate.013
+    400062: Ground.002
+    400064: Level 1
+    400066: Level 2
+    400068: Level 3
+    400070: Walls.003
+    400072: Isle
+    400074: Isle.001
+    400076: Isle.002
+    400078: Ground.003
+    2100000: Material
+    2100002: No Name
+    2100004: Material.001
+    2300000: Circle.001
+    2300002: Elevator
+    2300004: Plane
+    2300006: Circle.000
+    2300008: Gate
+    2300010: Plane.001
+    2300012: Walls.000
+    2300014: Walls.001
+    2300016: Walls.002
+    2300018: Gate.001
+    2300020: Gate.002
+    2300022: Gate.003
+    2300024: Gate.004
+    2300026: Gate.006
+    2300028: Gate.007
+    2300030: Gate.008
+    2300032: Gate.009
+    2300034: Ground
+    2300036: Ground.001
+    2300038: Elevator.001
+    2300040: Gate.005
+    2300042: Gate.010
+    2300044: Gate.011
+    2300046: Gate.012
+    2300048: Gate.013
+    2300050: Ground.002
+    2300052: Walls.003
+    2300054: Isle
+    2300056: Isle.001
+    2300058: Isle.002
+    2300060: Ground.003
+    3300000: Circle.001
+    3300002: Elevator
+    3300004: Plane
+    3300006: Circle.000
+    3300008: Gate
+    3300010: Plane.001
+    3300012: Walls.000
+    3300014: Walls.001
+    3300016: Walls.002
+    3300018: Gate.001
+    3300020: Gate.002
+    3300022: Gate.003
+    3300024: Gate.004
+    3300026: Gate.006
+    3300028: Gate.007
+    3300030: Gate.008
+    3300032: Gate.009
+    3300034: Ground
+    3300036: Ground.001
+    3300038: Elevator.001
+    3300040: Gate.005
+    3300042: Gate.010
+    3300044: Gate.011
+    3300046: Gate.012
+    3300048: Gate.013
+    3300050: Ground.002
+    3300052: Walls.003
+    3300054: Isle
+    3300056: Isle.001
+    3300058: Isle.002
+    3300060: Ground.003
+    4300000: Elevator
+    4300002: Plane
+    4300004: Circle.001
+    4300006: Circle.000
+    4300008: Walls.000
+    4300010: Gate
+    4300012: Walls.001
+    4300014: Plane.001
+    4300016: Walls.002
+    4300018: Ground
+    4300020: Gate.001
+    4300022: Gate.002
+    4300024: Gate.003
+    4300026: Gate.004
+    4300028: Gate.006
+    4300030: Gate.007
+    4300032: Gate.008
+    4300034: Gate.009
+    4300036: Ground.001
+    4300038: Walls.003
+    4300040: Elevator.001
+    4300042: Gate.013
+    4300044: Gate.012
+    4300046: Gate.011
+    4300048: Gate.010
+    4300050: Gate.005
+    4300052: Ground.002
+    4300054: Isle
+    4300056: Isle.002
+    4300058: Isle.001
+    4300060: Ground.003
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
